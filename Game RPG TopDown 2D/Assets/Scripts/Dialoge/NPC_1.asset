@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af5e45af23b605449952d69b56489450, type: 3}
   m_Name: NPC_1
   m_EditorClassIdentifier: 
-  actor: {fileID: 0}
-  speakerSprite: {fileID: 1727022864612719175, guid: da536f86ced21304287cf131a8d7441a, type: 3}
-  sentence: Ola mundo
+  actor: {fileID: 4645062931378274567, guid: 5c4772b212a69304a9eca8401bbb1c72, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
   dialogues:
   - actorName: Joao
     profile: {fileID: 2031753151691111046, guid: da536f86ced21304287cf131a8d7441a, type: 3}
     sentence:
-      portuguese: Ola mundo
-      english: Hello world
-      spanish: Hola
-  - actorName: 
+      portuguese: Ola!
+      english: Hello!
+      spanish: Hola!
+  - actorName: "Mo\xE7a"
     profile: {fileID: 0}
     sentence:
-      portuguese: 
-      english: 
-      spanish: 
+      portuguese: Tudo Bem?
+      english: How are You?
+      spanish: Hola que tal?
